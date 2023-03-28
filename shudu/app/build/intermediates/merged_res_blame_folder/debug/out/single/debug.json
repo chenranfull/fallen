@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_demo.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_bg.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_theme_item.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\theme_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-xhdpi_sudoku.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-xhdpi\\sudoku.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_keypad.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\keypad.xml"
+    },
+    {
+        "merged": "com.homework.shudu.app-merged_res-19:/layout_activity_change_button.xml.flat",
+        "source": "com.homework.shudu.app-main-21:/layout/activity_change_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_back_edit.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\back_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_change_theme.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\change_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_main_page.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_sign.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-hdpi_sudoku.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-hdpi\\sudoku.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_bg_menu.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\bg_menu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_diy.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\diy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_menu_button.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\menu_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_game_back.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\game_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\raw_yue.mp3.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\raw\\yue.mp3"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_main.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-ldpi_sudoku.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-ldpi\\sudoku.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_change_button.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_change_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_about.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_bg_color.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\bg_color.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_main_back.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_color.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_sudoku.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\sudoku.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_main_back.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\xml_prefs.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\raw_sound.ogg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\raw\\sound.ogg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_blue.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_back_button.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_black.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-xhdpi_main_back.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-xhdpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_loadpage.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_loadpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_bg1.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_burron_bg.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\burron_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_waitting_page.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_waitting_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_activity_personal.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_reset.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\reset.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-hdpi_main_back.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-hdpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-mdpi_green.jpg.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-mdpi\\green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable-ldpi_main_back.png.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable-ldpi\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\layout_game_main.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\layout\\game_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-merged_res-19:\\drawable_num_button.xml.flat",
+        "source": "C:\\Users\\wu\\.gradle\\daemon\\7.3.3\\com.homework.shudu.app-main-21:\\drawable\\num_button.xml"
+    }
+]

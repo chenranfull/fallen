@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\shudu\\shudu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "G:\\shudu\\shudu\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\shudu\\shudu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\sudoku.png",
+        "source": "G:\\shudu\\shudu\\app\\src\\main\\res\\drawable-ldpi\\sudoku.png"
+    }
+]
